@@ -1,0 +1,102 @@
+header {
+
+}
+
+h1 {
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Bungee Hairline', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-family: 'IBM Plex Mono', monospace; */
+}
+
+p {
+    font-family: 'IM Fell English SC', serif;
+}
+
+.parallax-1 {
+    background-image: url(../img/bg3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100vw;
+}
+.parallax-2 {
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100vw;
+}
+.parallax-3 {
+    background-image: url(../img/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100vw;
+}
+.parallax-4 {
+    background-image: url(../img/bg5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100vw;
+}
+.parallax-5 {
+    background-image: url(../img/bg4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100vw;
+}
+
+
+.cart {
+    background-color: rgba(0, 0, 0, 0.461);
+}
+
+footer {
+    height: 15rem;
+}
+
+/* Fonts  */
+
+/* font-family: 'Aldrich', sans-serif;
+font-family: 'Barlow', sans-serif;
+font-family: 'Bungee Hairline', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Encode Sans SC', sans-serif;
+font-family: 'IBM Plex Mono', monospace; */
+
+
+/* font-family: 'Aldrich', sans-serif;
+font-family: 'Barlow', sans-serif;
+font-family: 'Bungee Hairline', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Encode Sans SC', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'IM Fell English SC', serif;
+font-family: 'Michroma', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Subrayada', sans-serif;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Noto Serif HK', serif;
+font-family: 'Odibee Sans', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Russo One', sans-serif;
+font-family: 'Silkscreen', cursive;
+font-family: 'Staatliches', cursive;
+font-family: 'Ubuntu', sans-serif; */
