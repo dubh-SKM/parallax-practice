@@ -2,16 +2,42 @@ header {
 
 }
 
-h1 {
-    font-family: 'Barlow', sans-serif;
+.nav-link, .navbar-brand {
     font-family: 'Bungee Hairline', cursive;
-    font-family: 'Dosis', sans-serif;
-    font-family: 'Encode Sans SC', sans-serif;
-    font-family: 'IBM Plex Mono', monospace; */
+}
+
+h1 {
+
+    font-family: 'Bungee Hairline', cursive;
+    text-shadow: 0 0 5px;
 }
 
 p {
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'Bungee Hairline', cursive;
+}
+
+
+.box {
+    background-color: rgba(0, 0, 0, 0.66);
+}
+.line {
+    background-color: rgb(237, 0, 0);
+    height: .2rem;
+    width: 25rem;
+}
+
+.cart {
+    background-color: rgba(0, 0, 0, 0.584);
+    text-align: center;
+}
+
+.class-title {
+    font-family: 'Bungee Hairline', cursive;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Aldrich', sans-serif;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bold;
 }
 
 .parallax-1 {
@@ -20,7 +46,7 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 700px;
     width: 100vw;
 }
 .parallax-2 {
@@ -29,7 +55,7 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 700px;
     width: 100vw;
 }
 .parallax-3 {
@@ -38,7 +64,7 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 700px;
     width: 100vw;
 }
 .parallax-4 {
@@ -47,7 +73,7 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 700px;
     width: 100vw;
 }
 .parallax-5 {
@@ -56,17 +82,25 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 700px;
     width: 100vw;
 }
 
 
-.cart {
-    background-color: rgba(0, 0, 0, 0.461);
-}
 
 footer {
     height: 15rem;
+    font-weight: bold;
+    font-family: 'Noto Serif HK', serif;
+font-family: 'Odibee Sans', cursive;
+font-family: 'Play', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Russo One', sans-serif;
+font-family: 'Silkscreen', cursive;
+
+
 }
 
 /* Fonts  */
